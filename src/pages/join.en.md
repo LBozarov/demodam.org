@@ -23,7 +23,7 @@ If the organizations want to host multiple applications it can use paths under i
 
 In order to install component’s or applications they should be compliant to the following guidelines or rules
 
-- **may** have a publicly accessible codebase
+- **may** have a publicly accessible codebase with a license that adheres to the [Open Source Definition]{https://opensource.org/osd}
 - **should** be included in the componentencatalogus.commonground.nl
 - **should** support generic haven component like Prometheus, Loki and NLX
 - **should** support [NL design system](https://designsystem.gebruikercentraal.nl/)

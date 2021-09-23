@@ -23,7 +23,7 @@ Als de organisaties meerdere applicaties willen hosten, kunnen ze paden gebruike
 
 Om componenten of applicaties te installeren, moeten ze voldoen aan de volgende richtlijnen of regels:
 
-- **kan** een publiek toegankelijke codebase hebben
+- **moet** een publiek toegankelijke codebase hebben met een licentie die voldoet aan de [Open Source Definition]{https://opensource.org/osd}
 - **zou** moeten zijn opgenomen in de componentencatalogus.commonground.nl
 - **zou** generieke havencomponenten zoals Prometheus, Loki en NLX moeten ondersteunen
 - **zou** ondersteuning moeten bieden voor [NL design system](https://designsystem.gebruikercentraal.nl/)
